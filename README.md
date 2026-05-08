@@ -1,2 +1,2 @@
 # PowerBI
-My collection of PowerBI Projects/Exercises
+My collection of PowerBI Dashboard projects/exercises
